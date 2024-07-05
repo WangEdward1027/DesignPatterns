@@ -1,3 +1,5 @@
+//在类之外定义一个全局类AutoRelease，实现单例模式的自动释放
+
 #include <iostream>
 using std::cout;
 using std::endl;
