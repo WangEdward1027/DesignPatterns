@@ -15,4 +15,7 @@
 
 四、其他设计模式 <br>
 1.Pimpl模式 <br>
+2.Reactor模式
+3.Preactor模式
+4.MVC模式
 
